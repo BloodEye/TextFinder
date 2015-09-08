@@ -1,0 +1,34 @@
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\Text Finder.exe.config
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\Text Finder.exe
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\Text Finder.pdb
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\BigInteger.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\ICSharpCode.AvalonEdit.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.AvalonDock.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.DataGrid.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.Toolkit.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\ICSharpCode.AvalonEdit.xml
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Work\WpfApplication1\WpfApplication1\obj\Release\Text Finder.csprojResolveAssemblyReference.cache
+D:\Work\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+D:\Work\WpfApplication1\WpfApplication1\obj\Release\App.baml
+D:\Work\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+D:\Work\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+D:\Work\WpfApplication1\WpfApplication1\obj\Release\Text Finder_MarkupCompile.cache
+D:\Work\WpfApplication1\WpfApplication1\obj\Release\Text Finder.g.resources
+D:\Work\WpfApplication1\WpfApplication1\obj\Release\TextFinder.AboutBox1.resources
+D:\Work\WpfApplication1\WpfApplication1\obj\Release\TextFinder.Properties.Resources.resources
+D:\Work\WpfApplication1\WpfApplication1\obj\Release\Text Finder.csproj.GenerateResource.Cache
+D:\Work\WpfApplication1\WpfApplication1\obj\Release\Text Finder.exe
+D:\Work\WpfApplication1\WpfApplication1\obj\Release\Text Finder.pdb

@@ -1,0 +1,48 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Text Finder.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Text Finder.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Text Finder.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Text Finder.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Text Finder_MarkupCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Text Finder.g.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\TextFinder.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Text Finder.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Text Finder.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Text Finder.pdb
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\Text Finder.exe.config
+D:\Work\WpfApplication1\WpfApplication1\obj\Debug\Text Finder.exe
+D:\Work\WpfApplication1\WpfApplication1\obj\Debug\Text Finder.pdb
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\Text Finder.exe
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\Text Finder.pdb
+D:\Work\WpfApplication1\WpfApplication1\obj\Debug\Text Finder.csprojResolveAssemblyReference.cache
+D:\Work\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Work\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+D:\Work\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Work\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\Work\WpfApplication1\WpfApplication1\obj\Debug\Text Finder_MarkupCompile.cache
+D:\Work\WpfApplication1\WpfApplication1\obj\Debug\Text Finder.g.resources
+D:\Work\WpfApplication1\WpfApplication1\obj\Debug\TextFinder.Properties.Resources.resources
+D:\Work\WpfApplication1\WpfApplication1\obj\Debug\Text Finder.csproj.GenerateResource.Cache
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\ICSharpCode.AvalonEdit.dll
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\ICSharpCode.AvalonEdit.xml
+D:\Work\WpfApplication1\WpfApplication1\bin\Debug\BigInteger.dll
+D:\Work\WpfApplication1\WpfApplication1\obj\Debug\TextFinder.AboutBox1.resources
